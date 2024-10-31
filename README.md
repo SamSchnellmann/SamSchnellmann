@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SamSchnellmann
-- 👀 I’m interested in owning my own company making and selling games to make the world happy
-- 🌱 I’m currently learning anything that can help me on this journey
-- 💞️ I’m looking to collaborate on code, economics, business, music
-- 📫 How to reach me - Email: Schnelly4@gmail.com  Insta: @sam_the_man013  Snap: @thetacoman013
+- 👀 I’m interested in owning and operating my own software studio / company
+- 🌱 I’m currently in my last semester of college for a software development major
+- 💞️ I’m looking for jobs to apply my developmental skills towards
+- 📫 How to reach me - Email: s.schnellmann@yahoo.com
 
 <!---
 SamSchnellmann/SamSchnellmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
